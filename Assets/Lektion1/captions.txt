@@ -1,0 +1,756 @@
+1
+00:00:00,320 - 00:00:03,439
+so what i have here are 12 pieces of
+
+2
+00:00:03,439 - 00:00:05,520
+candy and the ones that are colored in
+
+3
+00:00:05,520 - 00:00:07,839
+brown are made out of i have chocolate
+
+4
+00:00:07,839 - 00:00:10,160
+on the outside and the ones that have a
+
+5
+00:00:10,160 - 00:00:12,000
+c on them means that they have coconut
+
+6
+00:00:12,000 - 00:00:13,519
+on the inside so for example this one
+
+7
+00:00:13,519 - 00:00:16,239
+over here in the top left it's made out
+
+8
+00:00:16,239 - 00:00:17,279
+of chocolate on the outside but it
+
+9
+00:00:17,279 - 00:00:19,119
+doesn't have coconut on the inside while
+
+10
+00:00:19,119 - 00:00:20,720
+this one right over here does is
+
+11
+00:00:20,720 - 00:00:23,359
+chocolate on the outside and has coconut
+
+12
+00:00:23,359 - 00:00:26,000
+on the inside while this one whoops i
+
+13
+00:00:26,000 - 00:00:27,359
+didn't want to do that
+
+14
+00:00:27,359 - 00:00:30,160
+while this one while this one right over
+
+15
+00:00:30,160 - 00:00:32,079
+here it does not have chocolate on the
+
+16
+00:00:32,079 - 00:00:33,600
+outside but it does have coconut on the
+
+17
+00:00:33,600 - 00:00:35,840
+inside and this one right over here has
+
+18
+00:00:35,840 - 00:00:38,559
+neither chocolate nor coconut and what i
+
+19
+00:00:38,559 - 00:00:40,640
+want to think about is ways to represent
+
+20
+00:00:40,640 - 00:00:43,200
+this information that we are looking at
+
+21
+00:00:43,200 - 00:00:45,600
+and one way to do it is using a venn
+
+22
+00:00:45,600 - 00:00:49,280
+diagram so let me draw a venn diagram
+
+23
+00:00:49,280 - 00:00:50,399
+so
+
+24
+00:00:50,399 - 00:00:52,239
+then
+
+25
+00:00:52,239 - 00:00:55,120
+diagram is one way to represent it
+
+26
+00:00:55,120 - 00:00:56,559
+and the way it's typically done the
+
+27
+00:00:56,559 - 00:00:58,000
+convention is that you would make a
+
+28
+00:00:58,000 - 00:00:59,920
+rectangle to represent the universe that
+
+29
+00:00:59,920 - 00:01:01,199
+you care about in this case it would be
+
+30
+00:01:01,199 - 00:01:03,120
+all the chocolate so all the numbers
+
+31
+00:01:03,120 - 00:01:04,720
+inside of this should add up to the
+
+32
+00:01:04,720 - 00:01:06,240
+number of chocolates i have so it should
+
+33
+00:01:06,240 - 00:01:07,760
+add up to 12.
+
+34
+00:01:07,760 - 00:01:09,680
+so that's our universe right over here
+
+35
+00:01:09,680 - 00:01:11,680
+and then i'll draw circles to represent
+
+36
+00:01:11,680 - 00:01:14,479
+the sets that i care about so say for
+
+37
+00:01:14,479 - 00:01:16,320
+this one i care about the set of the
+
+38
+00:01:16,320 - 00:01:18,000
+things that have chocolate
+
+39
+00:01:18,000 - 00:01:19,920
+so i'll draw that with a circle it's not
+
+40
+00:01:19,920 - 00:01:21,759
+oftentimes you could draw them to scale
+
+41
+00:01:21,759 - 00:01:22,880
+but i'm not going to draw them to scale
+
+42
+00:01:22,880 - 00:01:25,280
+so that is my chocolate set
+
+43
+00:01:25,280 - 00:01:27,200
+chocolate
+
+44
+00:01:27,200 - 00:01:29,439
+that is my chocolate set
+
+45
+00:01:29,439 - 00:01:32,079
+and then i'll have a coconut set
+
+46
+00:01:32,079 - 00:01:34,000
+so
+
+47
+00:01:34,000 - 00:01:35,600
+coconut
+
+48
+00:01:35,600 - 00:01:37,759
+once again not drawn to scale i'd roam
+
+49
+00:01:37,759 - 00:01:39,680
+roughly the same size but there's
+
+50
+00:01:39,680 - 00:01:41,119
+actually you can see the chocolate set
+
+51
+00:01:41,119 - 00:01:42,479
+is bigger than the coconut set in
+
+52
+00:01:42,479 - 00:01:44,720
+reality coconut
+
+53
+00:01:44,720 - 00:01:46,960
+set and now we can fill in the different
+
+54
+00:01:46,960 - 00:01:48,159
+sections
+
+55
+00:01:48,159 - 00:01:51,280
+so how many of these things have
+
+56
+00:01:51,280 - 00:01:53,439
+chocolate but no coconut
+
+57
+00:01:53,439 - 00:01:55,759
+let's see we have one
+
+58
+00:01:55,759 - 00:01:56,640
+two
+
+59
+00:01:56,640 - 00:01:57,680
+three
+
+60
+00:01:57,680 - 00:01:58,560
+four
+
+61
+00:01:58,560 - 00:01:59,520
+five
+
+62
+00:01:59,520 - 00:02:03,280
+six have chocolate but no coconut
+
+63
+00:02:03,280 - 00:02:05,040
+so that's going to be actually let me do
+
+64
+00:02:05,040 - 00:02:06,000
+that in a different color because i
+
+65
+00:02:06,000 - 00:02:07,520
+think the colors are important so let me
+
+66
+00:02:07,520 - 00:02:08,878
+do it in green
+
+67
+00:02:08,878 - 00:02:12,640
+so one two three four
+
+68
+00:02:12,640 - 00:02:14,959
+five and six
+
+69
+00:02:14,959 - 00:02:17,440
+so this section right over here is six
+
+70
+00:02:17,440 - 00:02:18,720
+and once again i'm not talking about the
+
+71
+00:02:18,720 - 00:02:21,280
+whole brown thing i'm talking about just
+
+72
+00:02:21,280 - 00:02:23,599
+this area that i've shaded in green
+
+73
+00:02:23,599 - 00:02:26,480
+now how many have chocolate and coconut
+
+74
+00:02:26,480 - 00:02:28,800
+chocolate and coconut
+
+75
+00:02:28,800 - 00:02:30,239
+well that's going to be
+
+76
+00:02:30,239 - 00:02:31,280
+one
+
+77
+00:02:31,280 - 00:02:32,160
+two
+
+78
+00:02:32,160 - 00:02:34,720
+three so three of them have chocolate
+
+79
+00:02:34,720 - 00:02:36,800
+and coconut and notice that's this
+
+80
+00:02:36,800 - 00:02:38,640
+section here that's in the overlap
+
+81
+00:02:38,640 - 00:02:41,120
+between three of them go into both sets
+
+82
+00:02:41,120 - 00:02:43,840
+both categories these three have coconut
+
+83
+00:02:43,840 - 00:02:45,760
+and they have chocolate how many total
+
+84
+00:02:45,760 - 00:02:48,000
+have chocolate well six plus three nine
+
+85
+00:02:48,000 - 00:02:49,519
+how many have total have coconut well
+
+86
+00:02:49,519 - 00:02:50,720
+we're gonna have to figure that out in a
+
+87
+00:02:50,720 - 00:02:51,519
+second
+
+88
+00:02:51,519 - 00:02:53,120
+so how many have coconut but no
+
+89
+00:02:53,120 - 00:02:54,239
+chocolate
+
+90
+00:02:54,239 - 00:02:55,920
+well there's only
+
+91
+00:02:55,920 - 00:02:58,159
+one with coconut and no chocolate so
+
+92
+00:02:58,159 - 00:02:59,440
+that's that one right over there and
+
+93
+00:02:59,440 - 00:03:01,360
+that represents this area that i'm
+
+94
+00:03:01,360 - 00:03:03,280
+shading in in white so how many total
+
+95
+00:03:03,280 - 00:03:05,519
+coconut are there well one plus three or
+
+96
+00:03:05,519 - 00:03:08,400
+four and you see that one two three four
+
+97
+00:03:08,400 - 00:03:09,440
+and then the last thing we'd want to
+
+98
+00:03:09,440 - 00:03:11,040
+fill in because notice six plus three
+
+99
+00:03:11,040 - 00:03:12,560
+plus one only adds up to ten what about
+
+100
+00:03:12,560 - 00:03:14,239
+the other two well the other two are
+
+101
+00:03:14,239 - 00:03:17,280
+neither chocolate nor coconut actually
+
+102
+00:03:17,280 - 00:03:19,599
+let me color this so that's one two
+
+103
+00:03:19,599 - 00:03:21,599
+these are neither chocolate nor coconut
+
+104
+00:03:21,599 - 00:03:23,120
+and i could write these two right over
+
+105
+00:03:23,120 - 00:03:24,879
+here these are neither chocolate nor
+
+106
+00:03:24,879 - 00:03:28,400
+coconut so that's one way to represent
+
+107
+00:03:28,400 - 00:03:30,560
+to represent the information of what
+
+108
+00:03:30,560 - 00:03:32,080
+what how many chocolates how many
+
+109
+00:03:32,080 - 00:03:33,519
+coconuts and how many chocolate and
+
+110
+00:03:33,519 - 00:03:35,440
+coconuts and how many neither but
+
+111
+00:03:35,440 - 00:03:36,879
+there's other ways that we could do it
+
+112
+00:03:36,879 - 00:03:38,560
+another way to do it would be with a
+
+113
+00:03:38,560 - 00:03:40,239
+two-way table
+
+114
+00:03:40,239 - 00:03:42,000
+to
+
+115
+00:03:42,000 - 00:03:42,760
+a
+
+116
+00:03:42,760 - 00:03:45,040
+two-way table
+
+117
+00:03:45,040 - 00:03:48,560
+and on one axis say the vertical axis we
+
+118
+00:03:48,560 - 00:03:49,519
+could say
+
+119
+00:03:49,519 - 00:03:50,959
+let me write this
+
+120
+00:03:50,959 - 00:03:53,120
+so has chocolate
+
+121
+00:03:53,120 - 00:03:55,280
+has chocolate
+
+122
+00:03:55,280 - 00:03:57,360
+i'll write chalk for short and then i'll
+
+123
+00:03:57,360 - 00:03:59,439
+write no chocolate
+
+124
+00:03:59,439 - 00:04:00,480
+no
+
+125
+00:04:00,480 - 00:04:02,879
+chocolate chalk for short and then over
+
+126
+00:04:02,879 - 00:04:05,519
+here i could write coconut no i want to
+
+127
+00:04:05,519 - 00:04:06,959
+do that in white
+
+128
+00:04:06,959 - 00:04:09,280
+i got new tools and sometimes the color
+
+129
+00:04:09,280 - 00:04:10,879
+changing isn't so easy so this is
+
+130
+00:04:10,879 - 00:04:12,560
+coconut
+
+131
+00:04:12,560 - 00:04:14,400
+coconut and then over here all right no
+
+132
+00:04:14,400 - 00:04:15,680
+coconut
+
+133
+00:04:15,680 - 00:04:16,959
+no
+
+134
+00:04:16,959 - 00:04:18,000
+no
+
+135
+00:04:18,000 - 00:04:19,918
+coconut
+
+136
+00:04:19,918 - 00:04:22,160
+no coconut and then let me make a little
+
+137
+00:04:22,160 - 00:04:23,840
+table
+
+138
+00:04:23,840 - 00:04:25,680
+let me make a table make it clear what
+
+139
+00:04:25,680 - 00:04:27,520
+i'm doing here
+
+140
+00:04:27,520 - 00:04:29,360
+so a line there
+
+141
+00:04:29,360 - 00:04:32,000
+and a line there and then why not a line
+
+142
+00:04:32,000 - 00:04:33,680
+over here as well
+
+143
+00:04:33,680 - 00:04:34,880
+and then i can just fill in the
+
+144
+00:04:34,880 - 00:04:36,720
+different things so how many have this
+
+145
+00:04:36,720 - 00:04:38,960
+cell right or this square this is going
+
+146
+00:04:38,960 - 00:04:40,960
+to represent the number that has coconut
+
+147
+00:04:40,960 - 00:04:43,919
+and chocolate coconut and chocolate well
+
+148
+00:04:43,919 - 00:04:46,080
+we already looked into that that's one
+
+149
+00:04:46,080 - 00:04:47,919
+two three that's these three right over
+
+150
+00:04:47,919 - 00:04:49,680
+here so that's those three right over
+
+151
+00:04:49,680 - 00:04:50,639
+there
+
+152
+00:04:50,639 - 00:04:52,960
+this one right over here me is it has
+
+153
+00:04:52,960 - 00:04:55,840
+chocolate but it doesn't have coconut
+
+154
+00:04:55,840 - 00:04:57,600
+well that's this six right over here has
+
+155
+00:04:57,600 - 00:05:00,160
+chocolate but it doesn't have coconut
+
+156
+00:05:00,160 - 00:05:02,400
+so let me write
+
+157
+00:05:02,400 - 00:05:04,800
+this is that six right over there and
+
+158
+00:05:04,800 - 00:05:07,840
+then it has this this box would be it
+
+159
+00:05:07,840 - 00:05:10,720
+has coconut but no chocolate well how
+
+160
+00:05:10,720 - 00:05:13,280
+many is that well coconut no chocolate
+
+161
+00:05:13,280 - 00:05:15,600
+that's that one there and this one is
+
+162
+00:05:15,600 - 00:05:18,080
+going to be no coconut and no chocolate
+
+163
+00:05:18,080 - 00:05:19,919
+and we know what that's going to be
+
+164
+00:05:19,919 - 00:05:23,919
+no coconut and no no chocolate is going
+
+165
+00:05:23,919 - 00:05:26,479
+to be 2. and if we wanted to we could
+
+166
+00:05:26,479 - 00:05:28,639
+even throw in total totals over here we
+
+167
+00:05:28,639 - 00:05:30,639
+could write actually let me just do that
+
+168
+00:05:30,639 - 00:05:33,840
+just for fun i could write total
+
+169
+00:05:33,840 - 00:05:36,400
+i could write total
+
+170
+00:05:36,400 - 00:05:38,880
+and if i total it vertically
+
+171
+00:05:38,880 - 00:05:41,199
+if i total it vertically so three plus
+
+172
+00:05:41,199 - 00:05:43,440
+one this is four six plus two is eight
+
+173
+00:05:43,440 - 00:05:45,440
+so this four is the total number that
+
+174
+00:05:45,440 - 00:05:47,440
+have coconut the both the has chocolate
+
+175
+00:05:47,440 - 00:05:48,639
+and doesn't have chocolate and that's
+
+176
+00:05:48,639 - 00:05:50,080
+the three plus one
+
+177
+00:05:50,080 - 00:05:53,039
+this eight is a total that does not have
+
+178
+00:05:53,039 - 00:05:55,280
+the total that does not have coconut
+
+179
+00:05:55,280 - 00:05:57,120
+right no coconuts the total of no
+
+180
+00:05:57,120 - 00:05:59,120
+coconut and that of course is going to
+
+181
+00:05:59,120 - 00:06:02,000
+be the six plus this two and we could
+
+182
+00:06:02,000 - 00:06:05,919
+total horizontally three plus six is 9 1
+
+183
+00:06:05,919 - 00:06:08,240
+plus 2 is 3. what's this 9 that's a
+
+184
+00:06:08,240 - 00:06:10,880
+total amount of chocolate 6 plus 3.
+
+185
+00:06:10,880 - 00:06:12,800
+what's this 3 this is a total amount no
+
+186
+00:06:12,800 - 00:06:15,759
+chocolate that's this 1 plus 2. anyway
+
+187
+00:06:15,759 - 00:06:16,880
+hopefully you found that interesting
+
+188
+00:06:16,880 - 00:06:18,639
+this is just just different ways of
+
+189
+00:06:18,639 - 00:06:22,919
+representing the same information
+
